@@ -6,6 +6,7 @@ This study was presented as a poster at the Cognitive Development Society 2026 m
 
 Alena Egorova<sup>1</sup>, Jeffrey K. Bye<sup>2</sup>, Jing Chen<sup>3</sup>, 
 Puyuan Zhang<sup>1</sup>, Avery H. Closser<sup>4</sup>, Caroline Byrd Hornburg<sup>3</sup>, & Erin Ottmar<sup>1</sup>
+
 <sup>1</sup>Worcester Polytechnic Institute, <sup>2</sup>California State University, Dominguez Hills, <sup>3</sup>Virginia Tech, <sup>4</sup>University of Florida
 
 <img width="2500" height="1875" alt="Metacognition 2026 poster" src="https://github.com/user-attachments/assets/6ad31dac-0cd9-4839-ac32-1504f689cf12" />
@@ -20,5 +21,5 @@ Hornburg, C. B., Zhang, P., Closser, A. H., Bye, J. K., Lee, J.-E., Egorova, A.,
 
 Koedinger, K. R., Pavlik, P., McLaren, B. M., & Aleven, V. (2008). Is it better to give than to receive? The assistance dilemma as a fundamental unsolved problem in the cognitive science of learning and instruction. In Proceedings of the 30th annual conference of the cognitive science society (pp. 2155-2160). Austin, TX: Cognitive Science Society
 
-Labuhn, A.S., Zimmerman, B.J. & Hasselhorn, M. (2010). Enhancing students’ self-regulation and mathematics performance: the influence of feedback and self-evaluative standards. Metacognition Learning 5, 173–194 . https://doi.org/10.1007/s11409-010-9056-2
+Labuhn, A.S., Zimmerman, B.J. & Hasselhorn, M. (2010). Enhancing students’ self-regulation and mathematics performance: the influence of feedback and self-evaluative standards. Metacognition Learning 5, 173–194.
 
