@@ -14,8 +14,8 @@ Puyuan Zhang<sup>1</sup>, Avery H. Closser<sup>4</sup>, Caroline Byrd Hornburg<s
 [Poster PDF](https://github.com/user-attachments/files/26461680/Metacognition.2026.poster.pdf)
 
 
-## *Data analysus files*
-
+## *Data analysus file*
+[Data analysis RMD](https://github.com/alvegorova/Metacognition_CDS/blob/main/Meta_Data_analysis.pdf)
 
 
 ## *References*
